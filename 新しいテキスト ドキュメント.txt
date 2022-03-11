@@ -1,0 +1,21 @@
+[root@arhelmn01 etc]# pwd
+/infra/script/etc
+[root@arhelmn01 etc]# cat EC_log_check.conf
+<<’†—ª>>
+arhevsg01 System
+arhevsg01 Application
+arhevsg01 Security
+arhevsg01 EC_
+arhevsg01 ARHEVSG01_perf_win
+arhevsg01 dsmerror.log
+arhevsg02 System
+arhevsg02 Application
+arhevsg02 Security
+arhevsg02 EC_
+arhevsg02 ARHEVSG02_perf_win
+arhevsg02 dsmerror.log
+<<’†—ª>>
+[root@arhelmn01 etc]#
+
+
+arhivsg01, arhivsg02
